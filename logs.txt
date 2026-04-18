@@ -1,0 +1,11 @@
+18:56:26.742096 IP6 fe80::889f:7eff:fef7:8b93 > ff02::2: ICMP6, router solicitation, length 16
+18:56:27.767841 IP6 fe80::3c99:4fff:fe76:91 > ff02::2: ICMP6, router solicitation, length 16
+18:56:28.278143 IP6 fe80::508a:16ff:fe78:8338 > ff02::2: ICMP6, router solicitation, length 16
+18:56:28.686640 IP6 fe80::508a:16ff:fe78:8338.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+18:56:31.564146 ARP, Request who-has 10.0.0.2 tell 10.0.0.1, length 28
+18:56:31.564376 ARP, Reply 10.0.0.2 is-at 8a:9f:7e:f7:8b:93, length 28
+18:56:31.564378 IP 10.0.0.1 > 10.0.0.2: ICMP echo request, id 24874, seq 1, length 64
+18:56:31.564476 IP 10.0.0.2 > 10.0.0.1: ICMP echo reply, id 24874, seq 1, length 64
+18:56:31.578309 IP 10.0.0.2 > 10.0.0.1: ICMP echo request, id 24875, seq 1, length 64
+18:56:31.578328 IP 10.0.0.1 > 10.0.0.2: ICMP echo reply, id 24875, seq 1, length 64
+
