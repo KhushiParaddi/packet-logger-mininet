@@ -133,6 +133,6 @@ The project successfully demonstrates packet capture and analysis in a virtual n
 
 ## Proof of Execution
 
-![Screenshot 1](proof-of-exec/Screenshot 2026-04-19 114757.png)
-![Screenshot 2](proof-of-exec/Screenshot 2026-04-19 120746.png)
-![Screenshot 3](proof-of-exec/Screenshot 2026-04-19 120816.png)
+![Screenshot 1](proof-of-exec/ss1.png)
+![Screenshot 2](proof-of-exec/ss2.png)
+![Screenshot 3](proof-of-exec/ss3.png)
