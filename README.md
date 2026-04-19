@@ -131,9 +131,8 @@ The project successfully demonstrates packet capture and analysis in a virtual n
 * Implementation of filtering or firewall rules
 * Advanced logging and traffic analysis
 
----
+## Proof of Execution
 
-## 13. References
-
-* Mininet Documentation
-* tcpdump Manual
+![Screenshot 1](proof-of-exec/Screenshot 2026-04-19 114757.png)
+![Screenshot 2](proof-of-exec/Screenshot 2026-04-19 120746.png)
+![Screenshot 3](proof-of-exec/Screenshot 2026-04-19 120816.png)
