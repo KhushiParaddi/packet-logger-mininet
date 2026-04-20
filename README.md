@@ -134,5 +134,7 @@ The project successfully demonstrates packet capture and analysis in a virtual n
 ## Proof of Execution
 
 ![Screenshot 1](proof-of-exec/ss1.png)
+<img width="581" height="337" alt="Screenshot 2026-04-19 114757" src="https://github.com/user-attachments/assets/77fed2cb-9511-4c7b-9b22-11401e377fb2" />
+
 ![Screenshot 2](proof-of-exec/ss2.png)
 ![Screenshot 3](proof-of-exec/ss3.png)
