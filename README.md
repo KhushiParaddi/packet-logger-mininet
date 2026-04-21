@@ -40,7 +40,7 @@ All hosts are connected to a single switch using virtual Ethernet links.
 
 ### Step 1: Start Mininet
 
-sudo mn --topo single,3
+sudo mn
 
 ### Step 2: Open terminal for host
 
